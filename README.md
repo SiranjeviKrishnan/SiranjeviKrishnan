@@ -1,13 +1,6 @@
 <h2>Hi there!, I'm Siranjevi </h2>
-
 <span> 📫 Mail : siranjevgv2004@gmail.com </span><br>
-
-<a href="https://21cb54siranjevi.github.io/index-light.html">
-    <img 
-        src="https://21cb54siranjevi.github.io/images/avatar-1.svg"
-        style="height : 80px;"/>
-</a><br>
-<span> ⚡ Click to Explore! </span>
+<span> ⚡ Click to Explore : https://21cb54siranjevi.github.io/index-light.html </span>
 <br>
 <br>
 <a href="https://www.instagram.com/siranjevigv/">
