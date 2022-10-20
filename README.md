@@ -1,6 +1,6 @@
 <h2>Hi there!, I'm Siranjevi </h2>
 <span> 📫 Mail : siranjevgv2004@gmail.com </span><br>
-<span> ⚡ Click to Explore : https://21cb54siranjevi.github.io/index-light.html </span>
+<span> ⚡ Click to Explore : https://main.d78wgsoczrsi7.amplifyapp.com/ </span>
 <br>
 <br>
 <a href="https://www.instagram.com/siranjevigv/">
